@@ -25,7 +25,7 @@ SECRET_KEY = '9(b2-#0g3o*j_c!!9nhu4ht^ytji#op7sx@vk=_m4uj__+sup%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<mirakari>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'mirakari.pythonanywhere.com']
 
 
 # Application definition
